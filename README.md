@@ -11,7 +11,7 @@
 2. 启动DUT的elink客户端
 
 # 组网图
-![组网图](<https://raw.githubusercontent.com/goofool/wolink-server/master/img/network.png>)
+![组网图](img/network.png)
 
 
 # API接口
